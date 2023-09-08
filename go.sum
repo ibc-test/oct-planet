@@ -781,7 +781,7 @@ github.com/octopus-network/beefy-go v0.6.0/go.mod h1:47I3C/bcaU+prbxm8oNW176ytki
 github.com/octopus-network/ibc-go/v6 v6.1.0-ics10.7 h1:bVz7LrVTWb9I9GZ3nNI3BAHBuw2AuSoo/AoF65F885g=
 github.com/octopus-network/ibc-go/v6 v6.1.0-ics10.7/go.mod h1:ZV9LbICwFz7o7ky6wo2B/7IH9GofuHBVhiax+siBuF4=
 github.com/octopus-network/trie-go v0.3.0 h1:eqP8RXgaP8NA/rYQMz7GnVf73LzO4ADyf8nF1PAKGWU=
-github.com/octopus-network/trie-go v0.3.0/go.mod h1:SdIhuIZi2FLrTi9X/1X/E1A3ghIVUo5RpoEq3nNQY84=
+github.com/octopus-network/trie-go v0.3.0/go.mod h1:eiq61zcvD66lXiMHJCX3dy6BkhAg4S8KVqffsLWFIsg=
 github.com/oklog/oklog v0.3.2/go.mod h1:FCV+B7mhrz4o+ueLpx+KqkyXRGMWOYEvfiXtdGtbWGs=
 github.com/oklog/run v1.0.0/go.mod h1:dlhp/R75TPv97u0XWUtDeV/lRKWPKSdTuV0TZvrmrQA=
 github.com/oklog/ulid v1.3.1/go.mod h1:CirwcVhetQ6Lv90oh/F+FBtV6XMibvdAFo93nm5qn4U=
